@@ -1,2 +1,4 @@
 #ignore environment directory
 ll_env/
+learning_logs/__pycache__/
+learning_log/__pycache__/
